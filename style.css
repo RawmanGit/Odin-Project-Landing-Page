@@ -90,3 +90,37 @@ body{
   border: none;
   margin-top: 12px;
 }
+
+.team {
+  background: #E5E7EB;
+}
+
+.team .container {  
+  text-align: center;
+  overflow: auto;
+}
+
+.team .title {
+  font-size: 48px;
+  margin: 20px 0;
+}
+
+.team .boxes{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 64px 0;
+}
+
+.team .boxes img{
+  height: 200px;
+  width: 200px;
+  border-radius: 12px;
+  border: 4px solid #4285F4;
+}
+
+.team .box {
+  border-radius: 12px;
+  width: 200px;
+  height: 200px;
+}
