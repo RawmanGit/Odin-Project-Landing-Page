@@ -91,10 +91,6 @@ body{
   margin-top: 12px;
 }
 
-.team {
-  background: #E5E7EB;
-}
-
 .team .container {  
   text-align: center;
   overflow: auto;
@@ -124,3 +120,15 @@ body{
   width: 200px;
   height: 200px;
 }
+
+.about-team {
+  background: #E5E7EB;
+  padding: 128px;
+  font-size: 32px;
+}
+
+
+.about p{
+  text-align: end;
+}
+
