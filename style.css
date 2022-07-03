@@ -24,6 +24,9 @@ body{
   height: 60px;
   background: #1F2937;
   color: #fff;
+  position: fixed;
+  width: 100%;
+  top: 0;
 }
 
 .navbar .container{
@@ -206,4 +209,15 @@ body{
   margin: 0 auto;
   border-radius: 12px;
   background: #4285F4;
+}
+
+footer {
+  text-align: center;
+  background-color: #fff;
+  padding: 20px;
+}
+
+footer a {
+  text-decoration: none;
+  color: #1F2937;
 }
